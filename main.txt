@@ -1,0 +1,9 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A038-6DA7
+
+ Directory of C:\Users\Taher\Desktop\Git_project
+
+05/31/2020  12:12 PM                 0 main.txt
+05/31/2020  10:56 AM               273 text.txt
+               2 File(s)            273 bytes
+               0 Dir(s)  375,508,598,784 bytes free
